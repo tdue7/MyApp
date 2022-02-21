@@ -1,0 +1,15 @@
+/Users/tommydue/MyApp/bin/Debug/net6.0/MyApp
+/Users/tommydue/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/tommydue/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/tommydue/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/tommydue/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/tommydue/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/tommydue/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/tommydue/MyApp/obj/Debug/net6.0/ref/MyApp.dll
